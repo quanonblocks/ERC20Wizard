@@ -1,7 +1,7 @@
 # ERC20Wizard
 automatic contract creation and deployment
 
-Open **https://github.com/BlockchainDevs/ERC20Wizard.git**
+Open **http://blockchaindevs.github.io/ERC20Wizard**
 
 # Instructions to Run
 
