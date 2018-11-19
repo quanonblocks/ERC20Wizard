@@ -1,7 +1,7 @@
 # ERC20Wizard
 automatic contract creation and deployment
 
-Open **http://blockchaindevs.github.io/ERC20Wizard**
+Open **https://icowizard.quanonblocks.com**
 
 # Instructions to Run
 
